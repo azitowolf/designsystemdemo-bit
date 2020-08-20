@@ -2,9 +2,9 @@ import ReactDom from 'react-dom'
 import React from 'react'
 import List from '@bit/designsystemdemo.demo.list'
 
-function createItem(value) {
+function createItem(children) {
   const item = {
-    value,
+    children,
     selected: false,
     toggleSelection() {
       item.selected = !item.selected

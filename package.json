@@ -24,7 +24,7 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "@bit/designsystemdemo.demo.list": "^0.0.1"
+    "@bit/designsystemdemo.demo.list": "^0.1.2"
   },
   "bit": {
     "env": {},

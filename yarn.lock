@@ -367,27 +367,27 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@bit/designsystemdemo.demo.button@0.0.1":
-  version "0.0.1"
-  resolved "https://node.bit.dev/designsystemdemo.demo.button/-/designsystemdemo.demo.button-0.0.1.tgz#d49be07df717a7f5c3565bf9545dd13a1e78c6d7"
-  integrity sha1-1JvgffcXp/XDVlv5VF3ROh54xtc=
+"@bit/designsystemdemo.demo.button@0.0.5":
+  version "0.0.5"
+  resolved "https://node.bit.dev/designsystemdemo.demo.button/-/designsystemdemo.demo.button-0.0.5.tgz#b41ecb238862785d29e38ec6ed6448f758b78167"
+  integrity sha1-tB7LI4hieF0p447G7WRI91i3gWc=
   dependencies:
     react "^16.13.1"
 
-"@bit/designsystemdemo.demo.list-item@0.0.1":
-  version "0.0.1"
-  resolved "https://node.bit.dev/designsystemdemo.demo.list-item/-/designsystemdemo.demo.list-item-0.0.1.tgz#c78e60cd66118191b9c78a756f919100d4c075f6"
-  integrity sha1-x45gzWYRgZG5x4p1b5GRANTAdfY=
+"@bit/designsystemdemo.demo.list-item@0.1.1":
+  version "0.1.1"
+  resolved "https://node.bit.dev/designsystemdemo.demo.list-item/-/designsystemdemo.demo.list-item-0.1.1.tgz#ce26fcb183e8ec351d08f840aa93e0d1cc0b59d8"
+  integrity sha1-zib8sYPo7DUdCPhAqpPg0cwLWdg=
   dependencies:
-    "@bit/designsystemdemo.demo.button" "0.0.1"
+    "@bit/designsystemdemo.demo.button" "0.0.5"
     react "^16.13.1"
 
-"@bit/designsystemdemo.demo.list@^0.0.1":
-  version "0.0.1"
-  resolved "https://node.bit.dev/designsystemdemo.demo.list/-/designsystemdemo.demo.list-0.0.1.tgz#003793fa6e61120d9b67b5a52cbbc3a1c50d9542"
-  integrity sha1-ADeT+m5hEg2bZ7WlLLvDocUNlUI=
+"@bit/designsystemdemo.demo.list@^0.1.2":
+  version "0.1.2"
+  resolved "https://node.bit.dev/designsystemdemo.demo.list/-/designsystemdemo.demo.list-0.1.2.tgz#10a062ac8bd7ceec953699b1474e0b04061a3d9a"
+  integrity sha1-EKBirIvXzuyVNpmxR04LBAYaPZo=
   dependencies:
-    "@bit/designsystemdemo.demo.list-item" "0.0.1"
+    "@bit/designsystemdemo.demo.list-item" "0.1.1"
     react "^16.13.1"
 
 "@cnakazawa/watch@^1.0.3":
