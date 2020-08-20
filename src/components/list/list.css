@@ -1,0 +1,6 @@
+.List {
+  list-style: none;
+  font: 1em sans-serif;
+  max-width: 20em;
+  margin: 0 auto;
+}

@@ -1,0 +1,22 @@
+.List-Button {
+  border: none;
+  padding: 0.25em 0.5em;
+  color: white;
+  font-weight: bold;
+}
+
+.List-Button.transparent {
+  background: transparent;
+}
+
+.List-Button.green {
+  background: lightgreen;
+}
+
+.List-Button.blue {
+  background: lightblue;
+}
+
+.List-Button.red {
+  background: lightcoral;
+}
