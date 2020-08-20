@@ -1,6 +1,6 @@
 import ReactDom from 'react-dom'
 import React from 'react'
-import List from './components/list/list'
+import List from '@bit/designsystemdemo.demo.list'
 
 function createItem(value) {
   const item = {
